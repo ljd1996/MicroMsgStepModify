@@ -6,15 +6,13 @@
     <string name="load">加载</string>
     <string name="store">保存</string>
 
-    <string name="back">返回</string>
     <string name="require_access_title">获取权限</string>
     <string name="require_access_message">正在获取读写权限……</string>
-    <string name="require_failed_message">你的设备没有root</string>
+    <string name="failed">操作失败</string>
     <string name="loaded">已加载</string>
     <string name="stored">已保存</string>
-    <string name="canceled">已取消</string>
     <string name="need_load">请先加载</string>
+    <string name="need_root">请授予Root权限</string>
     <string name="yes">是</string>
     <string name="no">否</string>
-    <string name="note">注意</string>
 </resources>
